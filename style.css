@@ -1,0 +1,28 @@
+.Heading{
+    background-size: cover;
+    background-color: aliceblue;
+    color: rgb(37, 143, 46);}
+
+.Heading :hover{
+    
+    transform-style: flat;
+    background-color: antiquewhite;
+}
+
+ .wel {
+    color: blue;
+ } 
+
+ .Hello {
+   color: blueviolet;
+ }
+
+ table {
+    font-size:xx-large;
+border-color: aqua;
+ }
+
+ table :hover{
+    transform-style: flat;
+    background-color: antiquewhite;
+ }
